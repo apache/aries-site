@@ -1,0 +1,12 @@
+- name: Home
+  link: /
+- name: Documentation
+  link: /documentation.html
+- name: Modules
+  link: /modules.html
+- name: Community
+  link: /community.html
+- name: Development
+  link: /development
+- name: Sponsorship
+  link: /sponsorship.html
