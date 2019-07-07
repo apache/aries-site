@@ -1,6 +1,7 @@
 ---
-layout: default
-title: Home
+title: Apache Aries
+subtitle: The Aries project consists of a set of pluggable Java components enabling an enterprise OSGi application programming model.
+layout: page
 ---
 
 # Apache Aries
@@ -28,7 +29,7 @@ based runtimes. The OSGi R7 Enterprise Specification can be found here:
 
 [OSGi Enterprise Release 7](https://osgi.org/specification/osgi.enterprise/7.0.0/)
 
-### Additional projects
+## Additional projects
 
 Additionally, Apache Aries provides the following projects:
 
