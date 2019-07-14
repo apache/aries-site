@@ -4,7 +4,7 @@ tagline: Apache Aries Project
 email: dev@aries.apache.org
 description: >
   The Aries project consists of a set of pluggable Java components enabling an enterprise OSGi application programming model.
-baseurl: ""
+baseurl: "/aries-site/"
 url: ""
 permalink: pretty
 
