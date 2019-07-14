@@ -1,6 +1,6 @@
 <footer class="footer">
     <div class="container">
-        
+
         {% if site.footer_menu %}
         <div class="columns is-multiline">
             {% for item in site.data[site.footer_menu] %}
@@ -12,8 +12,13 @@
             {% endfor %}
         </div>
         {% endif %}
-
+        <div>
+            <a href="http://www.apache.org/events/current-event.html">
+                <img src="http://www.apache.org/events/current-event-125x125.png" width="125" height="125"/>
+            </a>
+        </div>
         <div class="content is-small has-text-centered">
+            <p class="">Apache Aries, Aries, Apache, the Apache feather logo, and the Apache Aries project logo are trademarks of The Apache Software Foundation.</p>
             <p class="">Theme built by <a href="https://www.csrhymes.com">C.S. Rhymes</a></p>
         </div>
     </div>

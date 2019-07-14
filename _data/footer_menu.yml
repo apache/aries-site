@@ -1,8 +1,12 @@
-- name: Home
-  link: /
-- name: Blog
-  link: /blog/
-- name: Products
-  link: /products/
 - name: Privacy Policy
   link: /privacy-policy/
+- name: Apache Events
+  link: https://www.apache.org/events/current-event.html
+- name: Licenses
+  link: https://www.apache.org/licenses/
+- name: Security
+  link: https://www.apache.org/security/
+- name: Sponsorship
+  link: https://www.apache.org/foundation/sponsorship.html
+- name: Thanks
+  link: https://www.apache.org/foundation/thanks.html

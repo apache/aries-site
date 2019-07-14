@@ -1,17 +1,98 @@
-- name: Pages
+- name: Documentation
   link: #
   dropdown:
-    - name: Page With Sidebar
-      link: /page-1/
-    - name: Page No Sidebar
-      link: /page-2/
-    - name: Page With Menubar
-      link: /page-3/
-    - name: Page With Tabs
-      link: /page-4/
-    - name: Page Without Footer
-      link: /page-5/
-- name: Products
-  link: /products/
-- name: Blog
-  link: /blog/
+    - name: Integrators guide
+      link: /documentation/integrators-guide.html
+    - name: Articles
+      link: /documentation/articles.html
+    - name: Slides
+      link: /documentation/slides.html
+    - name: Tutorials
+      link: /documentation/tutorials.html
+    - name: Tools
+      link: /documentation/tools.html
+- name: Modules
+  link: #
+  dropdown:
+    - name: Samples
+      link: /modules/samples.html
+    - name: Asynchronous Services
+      link: /modules/async-svcs.html
+    - name: Blueprint
+      link: /modules/blueprint.html
+    - name: Blueprint-maven-plugin
+      link: /modules/blueprint-maven-plugin.html
+    - name: Blueprint Annotations
+      link: /modules/blueprintannotation.html
+    - name: Blueprint No-OSGi
+      link: /modules/blueprintnoosgi.html
+    - name: Blueprint Web
+      link: /modules/blueprintweb.html
+    - name: Containers
+      link: /modules/containers.html
+    - name: ESA Ant Task
+      link: /modules/esaanttask.html
+    - name: EBA Maven Plugin
+      link: /modules/ebamavenpluginproject.html
+    - name: ESA Maven Plugin
+      link: /modules/esamavenpluginproject.html
+    - name: JMX
+      link: /modules/jmx.html
+    - name: JNDI
+      link: /modules/jndiproject.html
+    - name: JPA
+      link: /modules/jpaproject.html
+    - name: Transaction Control Service
+      link: /modules/transactioncontrol.html
+    - name: Transactions
+      link: /modules/transactionsproject.html
+    - name: Remote Service Admin (RSA)
+      link: /modules/rsa.html
+    - name: SPI Fly
+      link: /modules/spi-fly.html
+    - name: Subsystems
+      link: /modules/subsystems.html
+    - name: Applications (obsolete)
+      link: /modules/applications.html
+- name: Downloads
+  link: #
+  dropdown:
+    - name: Current Releases
+      link: /downloads/currentreleases.html
+    - name: Compliance Tests
+      link: /downloads/testresults.html
+    - name: Archived Releases
+      link: /downloads/archived-releases.html
+- name: Community
+  link: #
+  dropdown:
+    - name: Community Resources
+      link: /community/resources.html
+    - name: Getting Involved
+      link: /community/gettinginvolved.html
+    - name: Board Reports
+      link: /community/boardreports.html
+    - name: Logos for Users
+      link: /community/logos.html
+- name: Development
+  link: #
+  dropdown:
+    - name: Building Aries
+      link: /development/buildingaries.html
+    - name: Coding Guidelines
+      link: /development/guidelines.html
+    - name: Architecture
+      link: /development/architecture.html
+    - name: Releasing Aries
+      link: /development/releasingaries.html
+    - name: OSGi Compliance Tests
+      link: /development/compliancetesting.html
+    - name: Web Site Maintenance
+      link: /development/maintainingthewebpages.html
+- name: Sponsorship
+  link: #
+  dropdown:
+    - name: Thanks
+      link: http://www.apache.org/foundation/thanks.html
+    - name: Sponsoring Apache
+      link: http://www.apache.org/foundation/sponsorship.html
