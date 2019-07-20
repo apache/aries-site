@@ -1,0 +1,61 @@
+- label: Example Menu
+  items:
+    - name: Home
+      link: /
+    - name: Documentation
+      link: #
+      items:
+        - name: Integrators guide
+          link: /documentation/integrators-guide.html
+        - name: Articles
+          link: /documentation/articles.html
+        - name: Slides
+          link: /documentation/slides.html
+        - name: Tutorials
+          link: /documentation/tutorials.html
+        - name: Tools
+          link: /documentation/tools.html
+    - name: Modules
+      link: #
+        items:
+          - name: Samples
+            link: /modules/samples.html
+          - name: Asynchronous Services
+            link: /modules/async-svcs.html
+          - name: Blueprint
+            link: /modules/blueprint.html
+          - name: Blueprint-maven-plugin
+            link: /modules/blueprint-maven-plugin.html
+          - name: Blueprint Annotations
+            link: /modules/blueprintannotation.html
+          - name: Blueprint No-OSGi
+            link: /modules/blueprintnoosgi.html
+          - name: Blueprint Web
+            link: /modules/blueprintweb.html
+          - name: Containers
+            link: /modules/containers.html
+          - name: ESA Ant Task
+            link: /modules/esaanttask.html
+          - name: EBA Maven Plugin
+            link: /modules/ebamavenpluginproject.html
+          - name: ESA Maven Plugin
+            link: /modules/esamavenpluginproject.html
+          - name: JMX
+            link: /modules/jmx.html
+          - name: JNDI
+            link: /modules/jndiproject.html
+          - name: JPA
+            link: /modules/jpaproject.html
+          - name: Transaction Control Service
+            link: /modules/transactioncontrol.html
+          - name: Transactions
+            link: /modules/transactionsproject.html
+          - name: Remote Service Admin (RSA)
+            link: /modules/rsa.html
+          - name: SPI Fly
+            link: /modules/spi-fly.html
+          - name: Subsystems
+            link: /modules/subsystems.html
+          - name: Applications (obsolete)
+            link: /modules/applications.html
+
